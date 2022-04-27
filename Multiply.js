@@ -10,9 +10,12 @@ function multiply(a, b){
 multiply(4, 5);
 
 
-// function multiply(a, b){
-//   a * b
-//   return a * b
-// }
+// Second solution 
 
-// multiply(2, 2);
+
+function multiply(a, b){
+  a * b
+  return a * b
+}
+
+multiply(2, 2);
