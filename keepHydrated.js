@@ -1,6 +1,6 @@
 // 
 
-// My Solution
+// Solution
 
 function litres(time) {
 
